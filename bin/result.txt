@@ -1,0 +1,6 @@
+test.c,   字符数：31
+file.c    字符数:59
+file.c,   单词数：9
+file.c,   行数:5
+char.c,   字符数：94
+char.c,   行数:7
